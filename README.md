@@ -1,6 +1,6 @@
 # Learning Nonlinear Test Assets: Dynamic Unsupervised Clustering of Firm Characteristics
 
-Replication code for **Cong et al. (2025)** — *Learning Nonlinear Test Assets: Dynamic Unsupervised Clustering of Firm Characteristics*.
+Replication code — *Learning Nonlinear Test Assets: Dynamic Unsupervised Clustering of Firm Characteristics*.
 
 ---
 
